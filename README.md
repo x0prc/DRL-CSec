@@ -31,5 +31,5 @@ The scale of Internet-connected systems has increased considerably, and these sy
 
 ## 🎨 Project Design
 <details>
-  <summary></summary>
+  <summary>Initialisation Structure</summary>
 </details>
