@@ -12,11 +12,11 @@ The scale of Internet-connected systems has increased considerably, and these sy
 ## ❓ Problem Statements
 <details>
 <summary>Literature Reviews</summary> <br>
-  1. DRL In Cyber-Security : A Survey <br> 
-  1.a Security Methods for Cyber-Physical Systems <br><br>
-  1.b Intrusion Detection Systems<br>
+  <p>1. DRL In Cyber-Security : A Survey </p>
+  <p>1.a Security Methods for Cyber-Physical Systems</p>
+  <p>1.b Intrusion Detection Systems<br>
       1.b.a Host Based<br>
-      1.b.b Network Based<br><br>
+      1.b.b Network Based<br></p>
   1.c Game Theory for Cybersecurity<br>
       1.c.a Jamming Attacks<br>
       1.c.b Spoofing Attacks<br>
@@ -25,11 +25,8 @@ The scale of Internet-connected systems has increased considerably, and these sy
 
 
 ## 💡 Solution Statements
-<details>
-  <summary></summary>
-</details>
+[CPS in DRL](docs/CPS.py)
 
 ## 🎨 Project Design
-<details>
-  <summary>Initialisation Structure</summary>
-</details>
+<img width="1133" alt="Screenshot 2024-07-03 at 11 19 26 PM" src="https://github.com/x0prc/DRL-CSec/assets/105520102/fd558ccf-3b68-452e-af1e-0dca9902895b">
+
