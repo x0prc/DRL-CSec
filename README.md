@@ -38,6 +38,9 @@ The scale of Internet-connected systems has increased considerably, and these sy
 [Smart Jammers](docs/gameTheory/smartJammer.py)
 <br>
 [Frequency Spatial Anti-Jamming](docs/gameTheory/frequencySpatial.py)
+<br><br>
+**Intrusion Detection Systems**
+<br>
 
 
 
