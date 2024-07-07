@@ -34,6 +34,10 @@ The scale of Internet-connected systems has increased considerably, and these sy
 [Hotbooting Method](docs/gameTheory/hotbooting.py)
 <br>
 [Anti-Jamming Communications in WACRs](docs/gameTheory/AJCinWACRs.py)
+<br>
+[Smart Jammers](docs/gameTheory/smartJammer.py)
+<br>
+[Frequency Spatial Anti-Jamming](docs/gameTheory/frequencySpatial.py)
 
 
 
