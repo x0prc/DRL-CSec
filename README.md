@@ -25,7 +25,17 @@ The scale of Internet-connected systems has increased considerably, and these sy
 
 
 ## 💡 Solution Statements
+**Cyber Physical Systems**
+<br>
 [CPS in DRL](docs/CPS.py)
+<br><br>
+**Game Theory**
+<br>
+[Hotbooting Method](docs/gameTheory/hotbooting.py)
+<br>
+[Anti-Jamming Communications in WACRs](docs/gameTheory/AJCinWACRs.py)
+
+
 
 ## 🎨 Project Design
 <img width="1133" alt="Screenshot 2024-07-03 at 11 19 26 PM" src="https://github.com/x0prc/DRL-CSec/assets/105520102/fd558ccf-3b68-452e-af1e-0dca9902895b">
