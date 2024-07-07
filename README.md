@@ -41,6 +41,8 @@ The scale of Internet-connected systems has increased considerably, and these sy
 <br><br>
 **Intrusion Detection Systems**
 <br>
+[IDS for WSNs](docs/IDS/IDSforWSN.py)
+[SARSA](docs/IDS/SARSA.py)
 
 
 
